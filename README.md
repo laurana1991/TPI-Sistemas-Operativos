@@ -46,7 +46,7 @@ MonitorSistema/
 ```
 
 ## Estado del proyecto
- En desarrollo.
+ Terminado
 
 ## Autor
 
