@@ -33,8 +33,16 @@ El objetivo es demostrar el uso de la virtualización como entorno de desarrollo
 ```
 MonitorSistema/
 │
-├── main.py
-└── README.md
+├── main.py                 # Menú principal del programa
+├── sistema.py              # Información del sistema operativo
+├── memoria.py              # Consulta de la memoria RAM
+├── disco.py                # Información del espacio en disco
+├── procesos.py             # Muestra los procesos activos
+├── servicios.py            # Consulta el estado de un servicio
+├── red.py                  # Información de la red
+├── reporte.py              # Genera el reporte del sistema
+├── reporte_sistema.txt     # Archivo generado por el programa
+└── README.md               # Documentación del proyecto
 ```
 
 ## Estado del proyecto
